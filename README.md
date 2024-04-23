@@ -1,7 +1,3 @@
-Certainly! Here's a basic project description you can use for your GitHub README section for your personal portfolio website:
-
----
-
 # Personal Portfolio
 
 This project is my personal portfolio website showcasing my skills, projects, and experience. It is built using HTML and CSS to create a responsive and visually appealing web presence.
