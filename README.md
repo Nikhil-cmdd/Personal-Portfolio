@@ -20,7 +20,7 @@ This project is my personal portfolio website showcasing my skills, projects, an
   
 - **CSS**: Employed for styling and designing the visual appearance of the website.
 
-- **LavaScript**: To create interactive web page
+- **JavaScript**: To create an interactive web page
   
 - **Responsive Design**: Media queries and responsive CSS techniques ensure the website adapts well to different devices.
   
