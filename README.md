@@ -19,6 +19,8 @@ This project is my personal portfolio website showcasing my skills, projects, an
 - **HTML**: Used for structuring the content and layout of the website.
   
 - **CSS**: Employed for styling and designing the visual appearance of the website.
+
+- **LavaScript**: To create interactive web page
   
 - **Responsive Design**: Media queries and responsive CSS techniques ensure the website adapts well to different devices.
   
