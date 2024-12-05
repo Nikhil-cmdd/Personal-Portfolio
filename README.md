@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This project is my personal portfolio website showcasing my skills, projects, and experience. It is built using HTML and CSS to create a responsive and visually appealing web presence.
+This project is my personal portfolio website showcasing my skills, projects, and experience. It is built using HTML, CSS and to create a responsive and visually appealing web presence.
 
 ## Features
 
